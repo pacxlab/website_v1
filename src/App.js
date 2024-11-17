@@ -11,7 +11,6 @@ function App() {
         <Header />
 
       </div>
-      <Brand />
       <WhatPacx />
       <Features />
       <Possibility />

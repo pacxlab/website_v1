@@ -1,9 +1,11 @@
 import React from 'react'
-import './whatPacx.css'
 
 const WhatPacx = () => {
   return (
-    <div>WhatPacx</div>
+    <div>
+    <h1>What is Pacx Labs?</h1>
+    
+    </div>
   )
 }
 
