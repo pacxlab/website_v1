@@ -1,6 +1,6 @@
 import React from 'react'
 import './header.css'
-import puzzle2 from '../../assets/puzzle2.png'
+import puzzle4 from '../../assets/puzzle4.png'
 const Header = () => {
   return (
     <div className="pacx__header section__padding" id="home">
@@ -16,7 +16,7 @@ const Header = () => {
     </div>
 
     <div className="pacx__header-image">
-      <img src={puzzle2} />
+      <img src={puzzle4} />
     </div>
   </div>
   )

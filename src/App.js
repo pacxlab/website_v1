@@ -1,6 +1,6 @@
 
 import './App.css';
-import {Brand, CTA, Navbar} from './components';
+import {CTA, Navbar} from './components';
 import {Header, Footer, Features, Possibility, WhatPacx} from './containers';
 
 function App() {
