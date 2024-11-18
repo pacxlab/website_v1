@@ -12,9 +12,9 @@ const WhatPacx = () => {
             <h1 className="gradient__text">We help protocols onboard new users to their ecosystems.</h1>
         </div>
         <div className="pacx__whatpacx-container">
-            <Feature title="Playground" text="Users learn smart contract development through visual drag and drop block interfaces which translate to code." />
-            <Feature title="Deployment" text="We offer one-click deployment services to supported networks from within the playground. Deployment has never been easier!" />
-            <Feature title="Contract Analysis" text="Users can upload existing smart contracts for analysis. Based on the network, users get snippets of official documentation to help in understanding the contract. " />
+            <Feature title="Interactive Learning" text="We help you design suitable interactive playgrounds to complement your educational materials." />
+            <Feature title="Untapped Markets" text="We help you tap into wider audiences, including kids, through gamified learning which reduces the learning curve." />
+            <Feature title="Developer Experience" text="We design the most optimal developer experience for you, to retain developers and users in your ecosystem. " />
         </div>
     </div>
   )
