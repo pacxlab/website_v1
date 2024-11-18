@@ -1,6 +1,5 @@
 import React from 'react'
 import './footer.css'
-import logo2 from '../../assets/logo2.png';
 
 const Footer = () => {
   return (
@@ -15,7 +14,6 @@ const Footer = () => {
 
     <div className="pacx__footer-links">
       <div className="pacx__footer-links_logo">
-        <img src={logo2} alt="pacx_logo" />
         <p>Pacx Lab, <br /> All Rights Reserved</p>
       </div>
       <div className="pacx__footer-links_div">
